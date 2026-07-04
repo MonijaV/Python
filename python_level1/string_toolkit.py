@@ -1,0 +1,8 @@
+text=input("Enter a Text:")
+print("UpperCase:",text.upper())
+print("LowerCase:",text.lower())
+print("TitleCase:",text.title())
+print("Total Characters:",len(text))
+words=text.split()
+print("Word Count:",len(words))
+print("Reversed:",text[::-1])

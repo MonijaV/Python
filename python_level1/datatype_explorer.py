@@ -1,0 +1,10 @@
+var1=2
+var2=2.3
+var3=True
+var4=None
+var5="Hello"
+print(var1,type(var1))
+print(var2,type(var2))
+print(var3,type(var3))
+print(var4,type(var4))
+print(var5,type(var5))
